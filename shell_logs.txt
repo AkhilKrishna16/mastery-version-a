@@ -1,0 +1,500 @@
+   34  ./test_runner week4
+   35  clear
+   36  make clean
+   37  make debug
+   38  clear
+   39  gdb bin/ci
+   40  clear
+   41  clear
+   42  make clean
+   43  make all
+   44  ./test_runner week4
+   45  clear
+   46  clear
+   47  make clean
+   48  make all
+   49  clear
+   50  ./test_runner week4
+   51  clear
+   52  make clean
+   53  clear
+   54  make clean
+   55  make all
+   56  ./test_runner week4
+   57  clear
+   58  make clean
+   59  make all
+   60  ./test_runner week4
+   61  clear
+   62  clear\
+   63  clcea
+   64  clear
+   65  make clean
+   66  make all
+   67  ./test_runner week4
+   68  clear
+   69  make debug
+   70  clear
+   71  gdb
+   72  clear
+   73  gdb gdbgdbgdbgdbclear
+   74  clear
+   75  make clean
+   76  make all
+   77  clear
+   78  ./test_runner week4
+   79  clear
+   80  clear
+   81  patriots
+   82  clear
+   83  ci_reference -i testcases/week4/call.s
+   84  bin/ci -i testcases/week4/call.s
+   85  make clean
+   86  make all
+   87  bin/ci -i testcases/week4/calls.
+   88  bin/ci -i testcases/week4/call.s
+   89  ci_reference -i testcases/week4/call.s
+   90  make clean
+   91  make debug
+   92  gdb bin/ci
+   93  make clena
+   94  make clean
+   95  make all
+   96  bin/ci -i testcases/week4/call.s
+   97  make clean
+   98  make all
+   99  bin/ci -i testcases/week4/call.s
+  100  ./test_runner week4
+  101  clear
+  102  ./test_runner week4
+  103  valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all--track-origins=yes -s bin/ci -i testcases/week4/b.cond.s
+  104  valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/ci -i testcases/week4/b.cond.s
+  105  clear
+  106  valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/ci -i testcases/week4/b.cond.s
+  107  make clean
+  108  make all
+  109  ./test_runner week4
+  110  clear
+  111  ./test_runner week4
+  112  clear
+  113  make clean
+  114  make all
+  115  clear
+  116  ./test_runner week4
+  117  clear
+  118  clear
+  119  ./test_runner week4
+  120  clear
+  121  make all
+  122  clear
+  123  make clean
+  124  make all
+  125  clear
+  126  ./test_runner week4
+  127  clear
+  128  valgrind --error-exitcode=1 --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/ci -i testcases/week4/b.cond.s
+  129  make clean
+  130  make all
+  131  clear
+  132  ./test_runner week4
+  133  clear
+  134  git add .
+  135  git commit -m "Add Week4"
+  136  git push origin main
+  137  clear
+  138  git push origin main
+  139  clear
+  140  ./install.sh
+  141  chmod +x install.sh
+  142  clear
+  143  make all
+  144  clear
+  145  make clean
+  146  make all
+  147  clear
+  148  make clean
+  149  clear
+  150  gcc check_heap.c
+  151  clear
+  152  gcc check_heap.c
+  153  clear
+  154  gcc check_heap.c
+  155  clear
+  156  clear
+  157  gcc check_heap.c
+  158  clea
+  159  make heap_runner
+  160  make heap_runner
+  161  clear
+  162  make heap_runner
+  163  ./heap_runner
+  164  ./heap_runner -h
+  165  ./heap_runner -t 
+  166  ./heap_runner -t 4
+  167  clear
+  168  clear
+  169  make heap_runner
+  170  clear
+  171  ./heap_runner
+  172  clear
+  173  clear
+  174  make heap_runner
+  175  ./heap_runner
+  176  clear
+  177  ./heap_runner
+  178  clear
+  179  make heap_runner
+  180  clear
+  181  ./heap_runner
+  182  clear
+  183  make heap_runner
+  184  ./heap_runner
+  185  make heap_runner
+  186  clear
+  187  make heap_runner
+  188  ./heap_runner
+  189  clear
+  190  make debug
+  191  clear
+  192  gdb bin/co
+  193  clear
+  194  gdb bin/ci
+  195  clear
+  196  make heap_runner
+  197  ./heap_runner
+  198  clear
+  199  clear
+  200  make heap_runner
+  201  ./heap_runner
+  202  clear
+  203  ./heap_runner
+  204  clear
+  205  make heap_runner
+  206  ./heap_runner
+  207  clear
+  208  make heap_runner
+  209  clear
+  210  ./test_runner
+  211  clera
+  212  ./heap_runner
+  213  clear
+  214  make heap_runner
+  215  ./heap_runner
+  216  clear
+  217  make heap_runner
+  218  clear
+  219  ./heap_runner
+  220  clear
+  221  make heap_runner
+  222  ./heap_runner
+  223  clear
+  224  make heap_runner
+  225  clear
+  226  make heap_runner
+  227  clear
+  228  ./heap_runner
+  229  clear
+  230  make heap_runner
+  231  ./heap_runner
+  232  runner -r ./heap_runner
+  233  clear
+  234  make heap_runner
+  235  clear
+  236  make heap_runner
+  237  ./heap_runner
+  238  clear
+  239  runner -r ./heap_runner
+  240  clear
+  241  clear
+  242  make heap_runner
+  243  ./heap_runner
+  244  make heap_runner
+  245  clear
+  246  make heap_runner
+  247  ./heap_runner
+  248  clear
+  249  make heap_runner
+  250  clear
+  251  ./heap_runner
+  252  clear
+  253  make heap_runner
+  254  ./heap_runner
+  255  clear
+  256  clear
+  257  make heap_runner
+  258  ./heap_runner
+  259  clear
+  260  clear
+  261  make heap_runner
+  262  clear
+  263  clear
+  264  make heap_runner
+  265  ./heap_runner
+  266  clear
+  267  clear
+  268  make heap_runner
+  269  ./heap_runner
+  270  clear
+  271  make heap_runner
+  272  ./heap_runner
+  273  clear
+  274  git add .
+  275  git commit -m "Week 1"
+  276  clear
+  277  git push origin main
+  278  clear
+  279  make heap_runner
+  280  driver.py
+  281  install.sh
+  282  clear
+  283  clear
+  284  driver.py
+  285  clear
+  286  driver.py
+  287  install.sh
+  288  driver.py
+  289  clear
+  290  ./install_sh
+  291  clear
+  292  ./install.h
+  293  ./install.sh
+  294  driver.py
+  295  clear
+  296  ./install.sh
+  297  clear
+  298  driver.py
+  299  clear
+  300  ./install.sh
+  301  driver.py
+  302  clear
+  303  driver.py
+  304  clear
+  305  clear
+  306  driver.py
+  307  clear
+  308  driver.py
+  309  clear
+  310  clear
+  311  driver.py
+  312  clear
+  313  driver.py
+  314  driver.py
+  315  clear
+  316  driver.py
+  317  clear
+  318  make heap_runner
+  319  ./heap_runner
+  320  clear
+  321  make heap_runner
+  322  ./heap_runner
+  323  clear
+  324  make heap_runner
+  325  ./heap_runner
+  326  clear
+  327  make heap_runner
+  328  ./heap_runner
+  329  clear
+  330  make heap_runner
+  331  ./heap_runner
+  332  clear
+  333  clear
+  334  driver.py
+  335  git add .
+  336  git commit -m "Update Week2"
+  337  git push origin main
+  338  clear
+  339  driver.py
+  340  clear
+  341  driver.py
+  342  clear
+  343  driver.py
+  344  clear
+  345  driver.py
+  346  git add .
+  347  git commit -m "Prettier code."
+  348  git push origin main
+  349  clear
+  350  git push origin main
+  351  clear
+  352  clear
+  353  make heap_runner
+  354  ./heap_runner
+  355  clear
+  356  driver.py
+  357  clear
+  358  driver.py
+  359  clear
+  360  driver.py
+  361  git add .
+  362  git commit -m "Updated find"
+  363  clear
+  364  clear
+  365  driver.py
+  366  git add .
+  367  git commit -m "Added code
+  368  "
+  369  clear
+  370  git push origin main
+  371  clear
+  372  clear
+  373  driver.py
+  374  clear
+  375  driver.py
+  376  git add .
+  377  git commit -m "added new split"
+  378  git push origin main
+  379  clear
+  380  clearA
+  381  driver.py
+  382  clear
+  383  clear
+  384  driver.py
+  385  clear
+  386  clear
+  387  driver.py
+  388  clear
+  389  git add .
+  390  clear
+  391  git add .
+  392  git commit -m "Refactored coalesce"
+  393  git push origin main
+  394  clear
+  395  driver.py
+  396  clear
+  397  git add .
+  398  git commit -m "Refactored find"
+  399  git push origin main
+  400  clear
+  401  driver.py
+  402  clear
+  403  git add .
+  404  git commit -m "Added free list for coalesce"
+  405  git push origin main
+  406  clear
+  407  make week1
+  408  ./bin/test-hw -v 2
+  409  clear
+  410  make week1
+  411  ./bin/test-hw -v 2
+  412  clear
+  413  clear
+  414  make week1
+  415  clear
+  416  make week1
+  417  ./bin/test-hw -v 2
+  418  clear
+  419  make week1
+  420  ./bin/test-hw -v 2
+  421  clear
+  422  ./bin/test-hw -v 2
+  423  gdb ./bin/test-hw
+  424  make clean
+  425  make week1
+  426  ./bin/test-hw -v 2
+  427  make week1
+  428  clear
+  429  ./bin/test-hw -v 2
+  430  clear
+  431  make week1
+  432  ./bin/test-hw -v 2
+  433  clear
+  434  make week1
+  435  ./bin/test-hw -v 2
+  436  make week1
+  437  ./bin/test-hw -v 2
+  438  clear
+  439  make week1
+  440  ./bin/test-hw -v 2
+  441  clear
+  442  make week1
+  443  ./bin/test-hw -v 2
+  444  clear
+  445  make week1
+  446  clear
+  447  ./bin/test-hw -v 2
+  448  clear
+  449  make week1
+  450  ./bin/test-hw -v 2
+  451  clear
+  452  ./bin/test-hw -v 2
+  453  make week1
+  454  ./bin/test-hw -v 2
+  455  clear
+  456  make week1
+  457  ./bin/test-hw -v 2
+  458  clear
+  459  make week1
+  460  ./bin/test-hw -v 2
+  461  clear
+  462  make week1
+  463  ./bin/test-hw -v 2
+  464  clea
+  465  clear
+  466  make
+  467  clclear
+  468  clear
+  469  make clean
+  470  make
+  471  clear
+  472  make
+  473  make clean
+  474  make week1
+  475  clear
+  476  ./bin/test-hw -v 2
+  477  git add .
+  478  git commit -m "Finished files. Some wack error"
+  479  clear
+  480  git push origin main
+  481  clear
+  482  clear
+  483  make clean
+  484  make week1
+  485  clear
+  486  ./bin/test-hw -v 2
+  487  clear
+  488  make clean
+  489  make week1
+  490  clear
+  491  ./bin/test-hw -v 2
+  492  clear
+  493  make week1
+  494  ./bin/test-hw -v 2
+  495  clear
+  496  git add .
+  497  git commit -m "Finished code"
+  498  git push origin main
+  499  clear
+  500  make debug
+  501  gdb mini_ci 
+  502  make clean
+  503  make debug
+  504  clear
+  505  gdb mini_ci
+  506  clear
+  507  make check
+  508  clear
+  509  make clean
+  510  make debug
+  511  clear
+  512  gdb mini_ci
+  513  clear
+  514  make clean
+  515  make check
+  516  clear
+  517  make clean
+  518  make debug
+  519  clear
+  520  gdb testcases/err_ops2.s
+  521  clear
+  522  gdb mini_ci
+  523  make check
+  524  clear
+  525  make clean
+  526  make debug
+  527  clear
+  528  gdb mini_ci
+  529  clear
+  530  make clean
+  531  make check
+  532  clear
+  533  history > shell_logs.txt
